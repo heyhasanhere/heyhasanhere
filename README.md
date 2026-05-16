@@ -6,7 +6,6 @@
 ### 🚀 About Me
 I'm a DevOps & MLOps Engineer passionate about building **automated, scalable, and cloud-native systems**. I love bridging the gap between **software engineering, DevOps, and machine learning**, focusing on automation-first workflows that make engineering faster and more reliable.
 
-Currently:
 - 🎓 Final Year Bachelor of Artificial Intelligence Student @ **University of Technology Sydney**
 - ☁️ Working with **AWS, Docker, Kubernetes, Terraform, Python**
 - 🤖 Deploying AI/ML models using **MLOps pipelines**
@@ -35,14 +34,6 @@ I believe good engineering means:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=heyhasanhere&show_icons=true&theme=tokyonight"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhasanhere&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -50,13 +41,3 @@ I believe good engineering means:
 - 💼 **LinkedIn:** *https://www.linkedin.com/in/mdhasan-code/*  
 
 ---
-
-### 🤝 Open to:
-- DevOps / Cloud Internships  
-- MLOps & ML Engineering roles  
-- Open-source collaboration  
-- Automation & cloud-native project contributions  
-
----
-
-⭐ **If you like my work, feel free to star repositories or reach out!**
