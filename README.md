@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Md Rakib Hasan 👋</h1>
-<h3 align="center">DevOps & MLOps Engineer | Cloud Infrastructure | CI/CD Automation | Final-Year Student @ UTS</h3>
+<h3 align="center">DevOps & MLOps Engineer | Cloud Infrastructure | CI/CD Automation | Bachelor of AI Student @ UTS</h3>
 
 ---
 
 ### 🚀 About Me
-I'm a DevOps & MLOps Engineer passionate about building **automated, scalable, and cloud-native systems**. I love bridging the gap between **software engineering, DevOps, and machine learning**, focusing on automation-first workflows that make engineering faster and more reliable.
+Aspiring DevOps & MLOps Engineer passionate about building **automated, scalable, and cloud-native systems**. I love bridging the gap between **software engineering, DevOps, and machine learning**, focusing on automation-first workflows that make engineering faster and more reliable.
 
 - 🎓 Final Year Bachelor of Artificial Intelligence Student @ **University of Technology Sydney**
 - ☁️ Working with **AWS, Docker, Kubernetes, Terraform, Python**
