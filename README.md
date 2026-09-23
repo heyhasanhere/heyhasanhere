@@ -39,6 +39,6 @@ I believe good engineering means:
 ### 🌐 Connect with Me
 
 - 📫 **Email:** mdrakib_hasan@outlook.com
-- 💼 **LinkedIn:** *https://www.linkedin.com/in/mdhasan-code/*  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/heyhasanhere/*  
 
 ---
