@@ -6,7 +6,7 @@
 ### 🚀 About Me
 Aspiring DevOps & MLOps Engineer passionate about building **automated, scalable, and cloud-native systems**. I love bridging the gap between **software engineering, DevOps, and machine learning**, focusing on automation-first workflows that make engineering faster and more reliable.
 
-- 🎓 Final Year Bachelor of Artificial Intelligence Student @ **University of Technology Sydney**
+- 🎓 Bachelor of Artificial Intelligence Student @ **University of Technology Sydney**
 - ☁️ Working with **AWS, Docker, Kubernetes, Terraform, Python**
 - 🤖 Deploying AI/ML models using **MLOps pipelines**
 - 🔧 Automating cloud infrastructure & CI/CD workflows
